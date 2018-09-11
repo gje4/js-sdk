@@ -1,5 +1,2 @@
-node_modules
-localStorage/
 npm-debug.log
-.npmrc
 test-results.xml
